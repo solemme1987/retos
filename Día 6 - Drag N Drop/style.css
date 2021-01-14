@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+
+}
+
+.empty {
+
+}
+
+.fill {
+
+  width: 150px;
+
+}
+
+.hold {
+  border: ;
+}
+
+.hovered {
+  : dashed;
+}
+
+@media (max-width: 800px) {
+}

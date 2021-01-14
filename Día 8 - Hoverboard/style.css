@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+
+  }
+  
+  .container {
+  
+  }
+  
+  .square {
+
+  }
+  
+  .square:hover {
+    transition-duration: 0s;
+  }
